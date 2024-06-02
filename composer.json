@@ -12,6 +12,12 @@
             "Shshohagh\\SteadfastCourier\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "Saidul Hossain",
+            "email": "shshohagh3@gmail.com"
+        }
+    ],
     "extra": {
         "laravel": {
             "providers": [
